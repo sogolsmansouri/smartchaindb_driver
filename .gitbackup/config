@@ -1,0 +1,20 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "main"]
+	vscode-merge-base = origin/main
+[branch "addAdvBuy"]
+	vscode-merge-base = origin/main
+[branch "addadvbuy"]
+	vscode-merge-base = origin/main
+[gui]
+	wmstate = normal
+	geometry = 943x467+416+258 206 212
+[remote "origin"]
+	url = https://github.com/sogolsmansouri/smartchaindb_driver.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "main"]
+	url = https://github.ncsu.edu/CSC-Coul/smartchaindb_.git
+	fetch = +refs/heads/*:refs/remotes/main/*

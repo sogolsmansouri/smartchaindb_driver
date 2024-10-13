@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 b27a9911f5dddc8809e816d0fcd482c3cc21c0fc root <root@eb2-2270-lin01.csc.ncsu.edu> 1699148607 -0400	clone: from https://github.ncsu.edu/nkorchi/smartchaindb-driver.git
+b27a9911f5dddc8809e816d0fcd482c3cc21c0fc b27a9911f5dddc8809e816d0fcd482c3cc21c0fc smansou2 <smansou2@ncsu.edu> 1728797128 -0400	checkout: moving from main to addAdvBuy
+b27a9911f5dddc8809e816d0fcd482c3cc21c0fc 8b3e7b25b3a6228a6b08369543c9c9f1b20a42c0 smansou2 <smansou2@ncsu.edu> 1728797153 -0400	commit: add adv, buy offer, sell, return
+8b3e7b25b3a6228a6b08369543c9c9f1b20a42c0 8b3e7b25b3a6228a6b08369543c9c9f1b20a42c0 smansou2 <smansou2@ncsu.edu> 1728797385 -0400	checkout: moving from addAdvBuy to addAdvBuy
+8b3e7b25b3a6228a6b08369543c9c9f1b20a42c0 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728797555 -0400	checkout: moving from addAdvBuy to addadvbuy
+5c4ef00d99d746ef08552554e5a25836205fda9a 8b3e7b25b3a6228a6b08369543c9c9f1b20a42c0 smansou2 <smansou2@ncsu.edu> 1728797650 -0400	checkout: moving from addadvbuy to addAdvBuy
+8b3e7b25b3a6228a6b08369543c9c9f1b20a42c0 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728797777 -0400	rebase: checkout origin/main
+5c4ef00d99d746ef08552554e5a25836205fda9a b27a9911f5dddc8809e816d0fcd482c3cc21c0fc smansou2 <smansou2@ncsu.edu> 1728797809 -0400	checkout: moving from 5c4ef00d99d746ef08552554e5a25836205fda9a to main
+b27a9911f5dddc8809e816d0fcd482c3cc21c0fc 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728797850 -0400	pull --tags origin main: Fast-forward
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728797865 -0400	checkout: moving from main to main
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728798409 -0400	checkout: moving from main to main
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728798419 -0400	reset: moving to 5c4ef00
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728798513 -0400	checkout: moving from main to 5c4ef00d99d746ef08552554e5a25836205fda9a
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728798565 -0400	checkout: moving from 5c4ef00d99d746ef08552554e5a25836205fda9a to main
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728798572 -0400	reset: moving to 5c4ef00d99d746ef08552554e5a25836205fda9a
+5c4ef00d99d746ef08552554e5a25836205fda9a 8b3e7b25b3a6228a6b08369543c9c9f1b20a42c0 smansou2 <smansou2@ncsu.edu> 1728799220 -0400	rebase: updating HEAD
+8b3e7b25b3a6228a6b08369543c9c9f1b20a42c0 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728799228 -0400	reset: moving to 5c4ef00d99d746ef08552554e5a25836205fda9a
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728799386 -0400	rebase -i (start): checkout HEAD~10
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728799386 -0400	rebase -i (finish): returning to refs/heads/addAdvBuy
+5c4ef00d99d746ef08552554e5a25836205fda9a cc029b3df4ca7d9907a14151cf67fb6ebecbcdf4 smansou2 <smansou2@ncsu.edu> 1728799420 -0400	revert: Revert "Delete hw2_p3.ipynb"
+cc029b3df4ca7d9907a14151cf67fb6ebecbcdf4 494a4d2aac12db53767479b52d02787616eeb0d4 smansou2 <smansou2@ncsu.edu> 1728799466 -0400	revert: Revert "Revert "Delete hw2_p3.ipynb""
+494a4d2aac12db53767479b52d02787616eeb0d4 cc029b3df4ca7d9907a14151cf67fb6ebecbcdf4 smansou2 <smansou2@ncsu.edu> 1728799551 -0400	reset: moving to HEAD~
+cc029b3df4ca7d9907a14151cf67fb6ebecbcdf4 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728799712 -0400	checkout: moving from addAdvBuy to 5c4ef00
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728799760 -0400	checkout: moving from 5c4ef00d99d746ef08552554e5a25836205fda9a to main
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728800471 -0400	checkout: moving from main to main
+5c4ef00d99d746ef08552554e5a25836205fda9a 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728801681 -0400	reset: moving to 5c4ef00d99d746ef08552554e5a25836205fda9a
+5c4ef00d99d746ef08552554e5a25836205fda9a c69ff61ea0f985239b23efb45d323943de5997c6 smansou2 <smansou2@ncsu.edu> 1728802911 -0400	commit: adding adv,sell, return
+c69ff61ea0f985239b23efb45d323943de5997c6 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728802952 -0400	checkout: moving from main to addadvbuy
+5c4ef00d99d746ef08552554e5a25836205fda9a 569c50691c61f724a4faedc9f4f2a4db745ea4d0 smansou2 <smansou2@ncsu.edu> 1728860777 -0400	commit: add experiment to run for adv-offer-sell-return

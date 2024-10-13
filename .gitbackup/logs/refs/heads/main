@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 b27a9911f5dddc8809e816d0fcd482c3cc21c0fc root <root@eb2-2270-lin01.csc.ncsu.edu> 1699148607 -0400	clone: from https://github.ncsu.edu/nkorchi/smartchaindb-driver.git
+b27a9911f5dddc8809e816d0fcd482c3cc21c0fc 5c4ef00d99d746ef08552554e5a25836205fda9a smansou2 <smansou2@ncsu.edu> 1728797850 -0400	pull --tags origin main: Fast-forward
+5c4ef00d99d746ef08552554e5a25836205fda9a c69ff61ea0f985239b23efb45d323943de5997c6 smansou2 <smansou2@ncsu.edu> 1728802911 -0400	commit: adding adv,sell, return
